@@ -9,12 +9,14 @@ export const PORTFOLIO_DATA = {
     status: "Open to Internships"
   },
   skills: [
-    { emoji: "💻", title: "Languages", tags: ["HTML5", "CSS3", "JavaScript", "Java"] },
+    { emoji: "💻", title: "Languages", tags: ["HTML5", "CSS3", "JavaScript", "Java", "PHP", "Python", "SQL"] },
     { emoji: "⚛️", title: "Frameworks & Libraries", tags: ["React", "Next.js", "Node.js", "Express.js"], color: "teal" },
     { emoji: "🗄️", title: "Database", tags: ["MongoDB", "Mongoose", "REST APIs"], color: "green" },
-    { emoji: "🎨", title: "UI & Styling", tags: ["Tailwind CSS", "CSS Modules", "Figma", "Responsive Design"] },
-    { emoji: "🔧", title: "Tools", tags: ["Git", "GitHub", "Postman", "VS Code"], color: "teal" },
-    { emoji: "☁️", title: "Deployment", tags: ["Render", "Vercel", "Netlify", "GitHub Pages"], color: "green" }
+    { emoji: "🎨", title: "UI & Styling", tags: ["CSS Modules", "Figma", "Responsive Design"] },
+    { emoji: "🔧", title: "Tools", tags: ["Git", "GitHub", "VS Code"], color: "teal" },
+    { emoji: "☁️", title: "Deployment", tags: ["Render", "Vercel", "GitHub Pages"], color: "green" },
+    { emoji: "🌐", title: "Networking & Infrastructure", tags: ["Network Fundamentals", "Cisco Packet Tracer", "VLANs", "Routing Protocols"], color: "blue" 
+}
   ],
   projects: [
     {
